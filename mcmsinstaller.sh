@@ -1,4 +1,4 @@
-echo "WELCOME TO MCMS BY VISTAPOWER3002"
+echo "WELCOME TO MCMS BY L4MBD41ST"
 echo "please wait.. the program will start installing.."
 echo "it will install papermc 1.12.2"
 
